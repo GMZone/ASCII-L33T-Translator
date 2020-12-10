@@ -1,0 +1,16 @@
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.csprojAssemblyReference.cache
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.AssemblyInfoInputs.cache
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.AssemblyInfo.cs
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.csproj.CoreCompileInputs.cache
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.exe
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.deps.json
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.runtimeconfig.json
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.runtimeconfig.dev.json
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.dll
+E:\Programs\C# practice\bin\Debug\net5.0\ref\C# practice.dll
+E:\Programs\C# practice\bin\Debug\net5.0\C# practice.pdb
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.dll
+E:\Programs\C# practice\obj\Debug\net5.0\ref\C# practice.dll
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.pdb
+E:\Programs\C# practice\obj\Debug\net5.0\C# practice.genruntimeconfig.cache
